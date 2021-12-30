@@ -1,11 +1,11 @@
 #    Resume NLP
 
-## * Goal:
+## • Goal:
 
-* The goal of this project help HR employee to use machine learning algorithms for the Resume Screening task.
+ The goal of this project help HR employee to use machine learning algorithms for the Resume Screening task.
 
  
-## * Visualization: 
+## • Visualization
 
 <img src="https://github.com/hanaaalqarni5/Resume_NLP/blob/main/Visulization.png" width="500"/>
 
