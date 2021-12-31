@@ -22,3 +22,7 @@ we extracted the dataset from Kaggle website, the dataset contained 2485 rows an
  
 ## Team members: 
 Hanaa Alqarni , Ebtesam Sultan , Nuha Aljohani
+
+
+## Instructor:
+Mohammad El Deeb , Kinza Waqar.
