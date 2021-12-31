@@ -17,7 +17,7 @@ we extracted the dataset from Kaggle website, the dataset contained 2485 rows an
  * Notebook  
  #### Libraries:
  * Pandas,NumPy,Sklearn,Learn,Sklearn,metrics,nltk,nltk.corpus,corpus,word_tokenize,stopwords,word_tokenize,SnowballStemmer,wordnet,WordNetLemmatizer,NMF,LatentDirichletAllocation,TruncatedSVD,TfidfVectorizer,CountVectorizer,corpora,models,similarities,matutils,Warnings,Matplotlib,Datasets,CountVectorizer,GridSearchCV and Seaborn. 
- ### MVP Goal:  
+ ## MVP Goal:  
  * The goal of this project help HR employee to use machine learning algorithms for the Resume Screening task. 
  
 ## Team members: 
