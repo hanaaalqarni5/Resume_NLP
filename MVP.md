@@ -18,6 +18,6 @@
 A radar chart is an informative visual tool in which multiple variables (three or more) and compared on a two-dimensional plane. For this, we will create different axes emerging from a common central point. In most of the cases, all the axes are equally distributed and uniformly drawn from each other.
 
 
-<img src="https://github.com/hanaaalqarni5/Resume_NLP/blob/main/Radar%20chart.png" width="800"/>
+<img src="https://github.com/hanaaalqarni5/Resume_NLP/blob/main/chart.png" width="800"/>
 
 
